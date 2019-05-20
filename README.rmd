@@ -1,0 +1,9 @@
+# Gaussian Sums
+
+## This program a simple program that (initially) computes the sum of all the numbers from 1 to 100
+
+## Team Members
+
+* Matthew Jones
+* Brian Alexander
+* Dylon Vance

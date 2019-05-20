@@ -10,7 +10,7 @@ public class Summing {
       sum = sum + i;
     }
 
-    System.out.println("The sum of 1 to 100 is " + sum);
+    System.out.printf("The sum of 1 to 100 is " + sum);
   }
 
 
